@@ -1,0 +1,45 @@
+.profilePic {
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-image: url(tunaBackground.jpg);
+    background-attachment: fixed;
+    backface-visibility: 
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    background-color: lightblue;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #b888c9;
+    color: #414042;
+    font-size: 18pt;
+}
+
+p.websites {
+    background-color: #7823ce;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    color: white;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    background-color: lightblue;
+}
+
+a:hover {
+    background-color: #967bb2;
+    color: whitesmoke;
+}
